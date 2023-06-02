@@ -1,0 +1,35 @@
+form {
+  background: rgb(26, 196, 196);
+  width: 300px;
+  margin: 80px auto;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+input[type="text"], input[type="password"] {
+  width: 94%;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 16px;
+  margin-right: 10px;
+}
+
+input[type="submit"] {
+  width: 100%;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 16px;
+  background-color: #0c0a0a;
+  color: white;
+  cursor: pointer;
+}

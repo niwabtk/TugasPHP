@@ -1,0 +1,30 @@
+#daftar{
+    background:#ligtblue;
+    border:1px solid #ccc;
+    margin:auto;
+    width:400px;
+    padding:4px;
+    border-radius:3px;
+    }
+    .texbox{
+    border:1px solid #ccc;
+    height:25px;
+    }
+    .texarea{
+    border:1px solid #ccc;
+    }
+    .btn{
+    width:85px;
+    height:30px;
+    color:#099;
+    font-weight:bold;
+    margin-bottom:3px;
+    }
+    .btn:hover{
+    background:#333;
+    color: #000;;
+    font-weight:bold;
+    cursor:pointer;
+    border:2px solid #099;
+    border-radius:4px;
+    }
